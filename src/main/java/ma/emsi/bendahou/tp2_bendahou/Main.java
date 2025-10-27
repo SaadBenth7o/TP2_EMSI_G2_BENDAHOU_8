@@ -2,6 +2,6 @@ package ma.emsi.bendahou.tp2_bendahou;
 
 public class Main {
     public static void main(String[] args) {
-        Test4.main(args);
+        Test5.main(args);
     }
 }
